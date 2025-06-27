@@ -44,7 +44,7 @@ A modern, web-based expense tracker built with [Streamlit](https://streamlit.io/
 - **Plotly**
 - **Pandas**
 
----
+```
 
 ## 📂 Project Structure
 📦 expense_tracker/
@@ -54,7 +54,7 @@ A modern, web-based expense tracker built with [Streamlit](https://streamlit.io/
 ├── expenses.json # All user expense data 
 └── README.md
 
----
+```
 
 ## ⚙️ How to Run
 
