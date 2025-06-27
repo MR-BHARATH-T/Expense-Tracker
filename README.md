@@ -33,7 +33,7 @@ A modern, web-based expense tracker built with [Streamlit](https://streamlit.io/
 
 ## 📸 Demo
 
-![Screenshot](assets/demo.png) <!-- Optional: Include a screenshot in your repo -->
+![Screenshot](Screenshots/Screenshot 2025-06-28 011804.png) <!-- Optional: Include a screenshot in your repo -->
 
 ---
 
