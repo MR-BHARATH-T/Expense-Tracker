@@ -47,11 +47,11 @@ A modern, web-based expense tracker built with [Streamlit](https://streamlit.io/
 ---
 
 ## 📂 Project Structure
-📦 expense_tracker/ \n
-│ \n
-├── Expense-Tracker.py # Main app script \n
-├── users.json # User credentials (hashed) \n
-├── expenses.json # All user expense data \n
+📦 expense_tracker/
+│ 
+├── Expense-Tracker.py # Main app script 
+├── users.json # User credentials (hashed) 
+├── expenses.json # All user expense data 
 └── README.md
 
 ---
