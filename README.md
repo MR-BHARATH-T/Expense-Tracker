@@ -29,13 +29,6 @@ A modern, web-based expense tracker built with [Streamlit](https://streamlit.io/
 - 💾 **Data Storage**  
   All user and expense data is stored in JSON files (`users.json` and `expenses.json`).
 
----
-
-## 📸 Demo
-
-![Screenshot](Screenshots/Screenshot 2025-06-28 011804.png) <!-- Optional: Include a screenshot in your repo -->
-
----
 
 ## 🛠 Tech Stack
 
