@@ -73,11 +73,14 @@ pip install streamlit pandas plotly
 bash:
 streamlit run Expense-Tracker.py
 
+```
 **🔒 Security Notes:**
 
 -> Passwords are hashed using SHA-256.
 -> Forgot password flow is simulated using OTP-style verification (no real email service).
 -> For production, consider using a secure backend and encrypted storage.
+
+```
 
 **📝 License:**
 This project is open-source and available under the MIT License.
